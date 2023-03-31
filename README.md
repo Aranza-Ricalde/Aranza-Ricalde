@@ -4,7 +4,7 @@ Hello and welcome to my GitHub profile! I'm a 20-year-old software engineering s
 
 ## Here you can find me ⚡
 
-<a href="https://discord.com/">
+<a href="https://discord.com/users/Aranza Ricalde#9528">
     <img align="left" width="24xp" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png">  
 </a>
 <br></br>
