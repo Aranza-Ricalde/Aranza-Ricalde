@@ -1,6 +1,9 @@
 ### Hi there im Aranza 👋
 
 Hello and welcome to my GitHub profile! I'm a 20-year-old software engineering student with a passion for coding and creating innovative solutions. As a self-motivated and driven individual, I'm constantly learning and expanding my skill set to become a better developer 🔭.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aranza-Ricalde&show_icons=true&theme=radical)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
