@@ -5,7 +5,7 @@ Hello and welcome to my GitHub profile! I'm a 20-year-old software engineering s
 ## Here you can find me ⚡
 
 <a href="https://discord.com/">
-    <img align="left" width="21xp" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png">  
+    <img align="left" width="24xp" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png">  
 </a>
 <br></br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aranza-Ricalde&show_icons=true&theme=tokyonight)
