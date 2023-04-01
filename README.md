@@ -17,6 +17,7 @@ Hello and welcome to my GitHub profile! I'm a 20-year-old software engineering s
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" title="Twitter | Aranza Ricalde">     
 </a> &nbsp; &nbsp;
 
+<br>
 
 ![Aranza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aranza-Ricalde&show_icons=true&theme=radical)
 
