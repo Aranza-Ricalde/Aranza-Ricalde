@@ -2,7 +2,7 @@
 
 Hello and welcome to my GitHub profile! I'm a 20-year-old software engineering student with a passion for coding and creating innovative solutions. As a self-motivated and driven individual, I'm constantly learning and expanding my skill set to become a better developer 🔭.
 
-## Here you can find me ⚡
+## Connect with me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <a href="https://discord.com/users/Aranza Ricalde#9528">
     <img width="30xp" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord">  
