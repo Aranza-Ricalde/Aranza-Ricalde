@@ -5,10 +5,10 @@ Hello and welcome to my GitHub profile! I'm a 20-year-old software engineering s
 ## Here you can find me ⚡
 
 <a href="https://discord.com/users/Aranza Ricalde#9528">
-    <img align="left" width="30xp" src="https://www.svgrepo.com/show/353655/discord-icon.svg">  
+    <img width="30xp" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord">  
 </a> &nbsp; &nbsp;
 <a href="mailto:studioghibli8888@gmail.com">
-    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="E-mail">
 </a> &nbsp; &nbsp;   
 <a href="">
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
