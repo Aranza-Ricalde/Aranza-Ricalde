@@ -6,12 +6,19 @@ Hello and welcome to my GitHub profile! I'm a 20-year-old software engineering s
 
 <a href="https://discord.com/users/Aranza Ricalde#9528">
     <img align="left" width="24xp" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png">  
-</a>
+</a> &nbsp; &nbsp;
+<a href="mailto:studioghibli8888@gmail.com">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail">
+</a> &nbsp; &nbsp;   
+<a href="">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn">
+</a> &nbsp; &nbsp;
+<a href="https://twitter.com/Girlsare4realP1">
+    <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     
+</a> &nbsp; &nbsp;
 
-<a href="https://">
-    <img align="left" width="21xp" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-twitter-twitter-thumbnail.png">  
-</a>
-<br></br>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
