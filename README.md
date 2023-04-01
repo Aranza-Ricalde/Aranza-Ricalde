@@ -1,6 +1,6 @@
 ### Hi there I´m Aranza 👋
 
-Hello and welcome to my GitHub profile! I'm a 20-year-old software engineering student with a passion for coding and creating innovative solutions. As a self-motivated and driven individual, I'm constantly learning and expanding my skill set to become a better developer 🔭.
+Hello and welcome to my GitHub profile 🦎! I'm a 20-year-old software engineering student with a passion for coding and creating innovative solutions 🐙. As a self-motivated and driven individual, I'm constantly learning and expanding my skill set to become a better developer 🤖 🚀 ✨.
 
 ## Get to know me 🐔
 
