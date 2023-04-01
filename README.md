@@ -18,7 +18,7 @@ Hello and welcome to my GitHub profile! I'm a 20-year-old software engineering s
 </a> &nbsp; &nbsp;
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Aranza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aranza-Ricalde&show_icons=true&theme=radical)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
