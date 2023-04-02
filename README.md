@@ -15,7 +15,7 @@ Hello and welcome to my GitHub profile 🦎! I'm a 20-year-old software engineer
 <a href="mailto:RicaldeAranza@gmail.com">
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" title="Gmail | Aranza Ricalde">
 </a> &nbsp; &nbsp;   
-<a href="">
+<a href="https://www.linkedin.com/in/aranza-ricalde-683ba0270/">
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" title="LinkedIn | Aranza Ricalde">
 </a> &nbsp; &nbsp;
 <a href="https://twitter.com/Girlsare4realP1">
