@@ -12,7 +12,7 @@ Hello and welcome to my GitHub profile 🦎! I'm a 20-year-old software engineer
 
 ## Let´s connect and collaborate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-<a href="mailto:studioghibli8888@gmail.com">
+<a href="mailto:RicaldeAranza@gmail.com">
     <img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" title="Gmail | Aranza Ricalde">
 </a> &nbsp; &nbsp;   
 <a href="">
