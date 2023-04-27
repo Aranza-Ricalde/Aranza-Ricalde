@@ -6,7 +6,7 @@ Hello and welcome to my GitHub profile 🦎! I'm a 20-year-old software engineer
 
 - ☠️ I’m currently learning Python and JavaScript
 - 🧬 Bioinformatics and cybersecurity enthusiast
-- 🦀 Fun fact: Im currently learning german
+- 🦀 Fun fact: I´m currently learning german
 
 ![Aranza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aranza-Ricalde&show_icons=true&theme=radical)
 
